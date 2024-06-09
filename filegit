@@ -5,3 +5,7 @@ My second git command
 uname -r 
 
 cat /etc/redhat-release
+
+yum update -y
+
+yum install ansible -y 
