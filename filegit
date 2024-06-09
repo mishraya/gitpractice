@@ -1,3 +1,7 @@
-####################
+##############
 
-my git class
+My second git command
+
+uname -r 
+
+cat /etc/redhat-release
