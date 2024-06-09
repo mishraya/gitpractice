@@ -9,3 +9,11 @@ cat /etc/redhat-release
 yum update -y
 
 yum install ansible -y 
+##########
+singapore git
+
+yum install docker
+
+docker ps -a
+
+docker images
